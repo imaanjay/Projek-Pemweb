@@ -53,7 +53,7 @@ $menuItems = [
                 <a href="#keranjang" class="flex items-center hover:text-[#d4a484] transition">
                 <i class="fas fa-shopping-cart mr-2"></i> Keranjang
                 </a>
-                <a href="#logout" class="flex items-center hover:text-[#d4a484] transition">
+                <a href="logout.php" class="flex items-center hover:text-[#d4a484] transition">
                     <i class="fas fa-sign-out-alt mr-2"></i> Logout
                 </a>
             </div>
@@ -72,7 +72,7 @@ $menuItems = [
         <p class="text-xl mb-6">Nikmati kemudahan memesan dan pembayaran digital melalui perangkat anda</p>
         <!-- Ubah tombol untuk mengarahkan ke menu.php -->
         <a href="menu.php" class="bg-[#6F4E37] text-white px-6 py-3 rounded-full hover:bg-[#D4A484] transition">
-            Mulai Pesan
+            Mulai Pesan        
         </a>
     </div>
 </header>
@@ -84,12 +84,12 @@ $menuItems = [
             <div class="text-center p-6 bg-white rounded-lg shadow-md">
                 <i class="fas fa-coffee text-[#6f4e37] text-6xl mb-4"></i>
                 <h3 class="text-xl font-semibold mb-2">Kopi Berkualitas</h3>
-                <p>Kami menyajikan kopi pilihan dari biji kopi terbaik</p>
+                <p>Kami menyajikan berbagai menu kopi dan dessert pilihan dari resep terbaik</p>
             </div>
             <div class="text-center p-6 bg-white rounded-lg shadow-md">
                 <i class="fas fa-map-marker-alt text-[#6f4e37] text-6xl mb-4"></i>
                 <h3 class="text-xl font-semibold mb-2">Lokasi Mudah</h3>
-                <p>Tersedia di berbagai lokasi strategis di kota</p>
+                <p>lokasi strategis karena ada di pusat kota</p>
             </div>
             <div class="text-center p-6 bg-white rounded-lg shadow-md">
                 <i class="fas fa-clock text-[#6f4e37] text-6xl mb-4"></i>
