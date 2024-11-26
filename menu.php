@@ -147,7 +147,7 @@ $filteredMenuItems = filterMenu($activeCategory, $menuItems);
                 <a href="#keranjang" class="flex items-center hover:text-[#d4a484] transition">
                 <i class="fas fa-shopping-cart mr-2"></i> Keranjang
                 </a>
-                <a href="#logout" class="flex items-center hover:text-[#d4a484] transition">
+                <a href="logout.php" class="flex items-center hover:text-[#d4a484] transition">
                     <i class="fas fa-sign-out-alt mr-2"></i> Logout
                 </a>
             </div>
